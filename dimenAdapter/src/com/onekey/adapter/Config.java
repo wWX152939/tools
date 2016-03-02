@@ -1,5 +1,10 @@
 package com.onekey.adapter;
 
+/**
+ * 配置输出路径，输出格式，px、dp等
+ * @author onekey
+ *
+ */
 public class Config {
 	final static String SRC = "";
 	final static String DEST = "output/";
